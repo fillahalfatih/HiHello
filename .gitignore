@@ -1,0 +1,8 @@
+# Ignore directories
+ASL_Alphabet_Dataset/
+DATA_Kaggle/
+DATA/
+
+# Ignore all mp4 files
+*.mp4
+ASL Dataset.zip
