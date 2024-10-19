@@ -5,4 +5,4 @@ DATA/
 
 # Ignore all mp4 files
 *.mp4
-ASL Dataset.zip
+*.zip
