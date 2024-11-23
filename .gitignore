@@ -4,5 +4,4 @@ DATA_Kaggle/
 DATA/
 
 # Ignore all mp4 files
-*.mp4
 *.zip
