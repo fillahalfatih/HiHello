@@ -50,3 +50,6 @@ The [American Sign Language (ASL) Alphabet Dataset](https://www.kaggle.com/datas
 - **Training Data:** 87,000 images are available for training, with an equal distribution across the classes.
 
 This dataset is well-suited for projects involving computer vision and gesture recognition, especially for creating systems that can interpret sign language alphabet gestures. It can be used to train models to detect and classify hand gestures, which makes it useful in projects like **HiHello**, an alphabetical sign language detection system.
+
+## Demo Video
+![HiHello Demo](https://www.youtube.com/watch?v=F2z51vJ0Lk8 "HiHello Demo")
